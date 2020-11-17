@@ -1,13 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="9d14eff5-05c1-4595-bdbe-e15f79e19a66" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BusStop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/BusStopTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Bus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Bus.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/BusTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/BusTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Bus.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Bus.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/BusTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/BusTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,9 +58,9 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
-  <component name="RunManager" selected="JUnit.All in java_bus_stop_lab">
-    <configuration name="All in BusStop" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="BusStop" />
+  <component name="RunManager" selected="JUnit.All in cc_java_bus_stop">
+    <configuration name="All in cc_java_bus_stop" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="cc_java_bus_stop" />
       <option name="PACKAGE_NAME" value="" />
       <option name="TEST_OBJECT" value="package" />
       <method v="2">
@@ -88,11 +107,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.All in cc_java_bus_stop" />
         <item itemvalue="JUnit.All in java_bus_stop_lab" />
         <item itemvalue="JUnit.BusTest.canAddPerson" />
         <item itemvalue="JUnit.BusTest.startsEmpty" />
         <item itemvalue="JUnit.BusTest.hasCapacity" />
-        <item itemvalue="JUnit.All in BusStop" />
       </list>
     </recent_temporary>
   </component>
@@ -122,25 +141,30 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1878" height="304" key="GridCell.Tab.0.bottom" timestamp="1605628733255">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="1398" height="304" key="GridCell.Tab.0.bottom" timestamp="1605634106793">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state width="1398" height="304" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1605634106793" />
     <state width="1878" height="304" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1605628733255" />
-    <state width="1878" height="304" key="GridCell.Tab.0.center" timestamp="1605628733254">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="1398" height="304" key="GridCell.Tab.0.center" timestamp="1605634106792">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state width="1398" height="304" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1605634106792" />
     <state width="1878" height="304" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1605628733254" />
-    <state width="1878" height="304" key="GridCell.Tab.0.left" timestamp="1605628733253">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="1398" height="304" key="GridCell.Tab.0.left" timestamp="1605634106791">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state width="1398" height="304" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1605634106791" />
     <state width="1878" height="304" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1605628733253" />
-    <state width="1878" height="304" key="GridCell.Tab.0.right" timestamp="1605628733254">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="1398" height="304" key="GridCell.Tab.0.right" timestamp="1605634106792">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state width="1398" height="304" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1605634106792" />
     <state width="1878" height="304" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1605628733254" />
-    <state x="448" y="118" key="SettingsEditor" timestamp="1605628210812">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state x="336" y="57" key="SettingsEditor" timestamp="1605629988941">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state x="336" y="57" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1605629988941" />
     <state x="448" y="118" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1605628210812" />
   </component>
 </project>
