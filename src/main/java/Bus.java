@@ -24,8 +24,14 @@ public class Bus {
         return this.passengers.size();
     }
 
-    public void addPerson(Person person){
-        this.passengers.add(person);
+    public void addPerson(Person person) {
+        if (this.passengerCount() < this.capacity) {
+            this.passengers.add(person);
+        }
+    }
+
+    public void removePassenger(Person person) {
+        this.passengers.remove(person);
     }
 }
 

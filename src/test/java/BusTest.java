@@ -42,7 +42,15 @@ public class BusTest {
         this.bus.addPerson(person);
         this.bus.addPerson(person);
         this.bus.addPerson(person);
-        assertEquals();
+        this.bus.addPerson(person);
+        assertEquals(5, bus.passengerCount());
+    }
+
+    @Test
+    public void canRemovePassenger(){
+        this.bus.addPerson(person);
+        this.bus.removePassenger(person);
+        assertEquals(0, bus.passengerCount());
     }
 
 
